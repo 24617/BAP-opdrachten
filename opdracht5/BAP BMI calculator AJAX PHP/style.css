@@ -1,0 +1,98 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url(UnicornScribbles.otf);
+}
+
+body {
+  background-color: grey;
+  margin: 0 auto;
+  display: block;
+}
+
+#difje {
+  border-color: black;
+  border-style: solid;
+  text-align: center;
+  width: 400px;
+  min-height: 380px;
+  margin: 0 auto;
+  margin-top: 40px;
+  display:block;
+}
+
+#XML {
+  font-family: myFirstFont;
+  border-bottom-color: black;
+  border-bottom-style: solid;
+  margin: 20px;
+}
+
+#gewicht {
+  border-color: black;
+  width: 50px;
+  height: 40px;
+  text-align: center;
+  font-family: myFirstFont;
+  background-color: gainsboro;
+  font-size: 20px;
+  float:left;
+  margin-top: 40px;
+  margin-left: 20px;
+}
+
+#lengte {
+  border-color: black;
+  width: 50px;
+  height: 40px;
+  text-align: center;
+  font-family: myFirstFont;
+  background-color: gainsboro;
+  font-size: 20px;
+  float:left;
+  margin-top: 10px;
+  margin-left: 42px;
+}
+
+p {
+  font-family: myFirstFont;
+  font-size: 40px;
+  margin-bottom: 0px;
+  float:left;
+
+}
+
+#mid3 {
+  margin-left: 60px;
+}
+
+#mid4 {
+  margin-left: 60px;
+}
+
+#mid2 {
+  margin-top: 10px;
+}
+
+#button {
+  border-color: black;
+  font-family: myFirstFont;
+  font-size: 20px;
+  border-radius: 10px;
+  margin-top: 50px;
+}
+#resultaat {
+  margin-top: 0;
+  width: 300px;
+  min-height: 80px;
+  margin: 0 auto;
+  text-align: center;
+  display:block;
+  border-bottom-color: black;
+  border-bottom-style: solid;
+  border-left-color: black;
+  border-left-style: solid;
+  border-right-color: black;
+  border-right-style: solid;
+  font-size: 20px;
+  font-family: myFirstFont;
+}
